@@ -13,7 +13,7 @@
 
 Komanda vykdyti: 
 
-wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/MULTI-SCRIPTS-MANAGER/main/multiscript2.sh; chmod +x multiscript2.sh; ./multiscript2.sh
+wget https://raw.githubusercontent.com/RolkosModai/Multi-Script/main/multiscript2.sh; chmod +x multiscript2.sh; ./multiscript2.sh
 
 -------------------------------------------------------------------------------
 
